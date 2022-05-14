@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vritravaibhav
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning python (a beginner)
-- 💞️ I’m looking to collaborate on gaming related
+- 🌱 I’m currently learning java DSA (a beginner)
+- 💞️ I will colaborate once i gain some experience.
 
 
 <!---
